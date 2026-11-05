@@ -1,0 +1,6 @@
+{
+  "name": "Sales Revenue & Regional Variance Analyzer",
+  "description": "Upload sales orders CSV, analyze revenue by region and quarter with interactive charts and tables, and generate grounded 3-sentence executive summaries of Q2 to Q3 changes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
